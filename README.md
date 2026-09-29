@@ -177,7 +177,7 @@ Provides
 
 * Acceleration (X, Y, Z)
 * Gyroscope (X, Y, Z)
-
+(3 axis)
 ---
 
 # 🛰 GPS Simulator
